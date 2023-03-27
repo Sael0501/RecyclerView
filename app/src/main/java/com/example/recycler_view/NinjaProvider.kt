@@ -7,22 +7,32 @@ class NinjaProvider {
             Naruto(
                 "Naruto",
                 "Aldea de la hoja",
-                "https://play.google.com/store/apps/details?id=com.bandainamcoent.ninjavoltage_app&hl=es_US"
+                "https://i.pinimg.com/originals/2a/92/06/2a9206a4a0d1d23cf92636c42115d054.jpg"
             ),
             Naruto(
                 "Kakashi",
                 "Aldea de la hoja",
-                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fes%2Fimages%2Fsearch%2Fnaruto%2F&psig=AOvVaw1kbiZcrnpACImRWYtAQ7zI&ust=1679981304766000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMC8gp-w-_0CFQAAAAAdAAAAABAJ"
+                "https://avatarfiles.alphacoders.com/168/168230.jpg"
             ),
             Naruto(
                 "Sasuke",
                 "Aldea de la hoja",
-                "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftatsufannon.fandom.com%2Fes%2Fwiki%2FSasuke_Uchiha&psig=AOvVaw1XM0k3twe9fk0OYQ2-Gxyl&ust=1679981407339000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPDK4s-w-_0CFQAAAAAdAAAAABAK"
+                "https://i.pinimg.com/736x/d5/99/17/d59917f0ed7d3b6dd5e0594c932244c3.jpg"
             ),
             Naruto(
                 "Itachi",
                 "Aldea de la hoja",
-                "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fes%2Fhd-wallpaper-desktop-enmlc&psig=AOvVaw2EtHe3yMQd16-CptPFXjO3&ust=1679981485544000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDr-vSw-_0CFQAAAAAdAAAAABAP"
+                "https://avatarfiles.alphacoders.com/248/248231.jpg"
+            ),
+            Naruto(
+                "Minato",
+                "Aldea de la hoja",
+                "https://i.pinimg.com/originals/be/c5/a6/bec5a663a816355926f019d99427d1aa.png"
+            ),
+            Naruto(
+                "Jiraiya",
+                "Aldea de la hoja",
+                "https://avatarfiles.alphacoders.com/280/280706.jpg"
             ),
         )
 
